@@ -1,5 +1,4 @@
 Hello git 
- 123
-567
+wrong commit
 It's new line
 add new line
